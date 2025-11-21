@@ -16,9 +16,9 @@ Question: How would you create a new hash in Redis to store information about a 
 import redis
 
 r = redis.Redis(
-  host='redis-10908.c252.ap-southeast-1-1.ec2.cloud.redislabs.com',
+  host='redis-xxxxxxxxxx.ap-southeast-1-1.ec2.cloud.redislabs.com',
   port=10908,
-  password='EgIvxgDuiuk2Sh5VnJzUGXDMtLrtK5Hk')
+  password='')
 ```
 
 Answer:
